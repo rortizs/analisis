@@ -5,8 +5,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Mapping\Vetntas\" />
-    <Folder Include="Mapping\Usuarios\" />
+    <Compile Remove="Mapping\Vetntas\**" />
+    <EmbeddedResource Remove="Mapping\Vetntas\**" />
+    <None Remove="Mapping\Vetntas\**" />
   </ItemGroup>
 
   <ItemGroup>
@@ -19,6 +20,11 @@
 
   <ItemGroup>
     <ProjectReference Include="..\analisis.Entidades\analisis.Entidades.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Mapping\Ventas\" />
+    <Folder Include="Mapping\Usuarios\" />
   </ItemGroup>
 
 </Project>

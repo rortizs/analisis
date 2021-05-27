@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\project\\analisis\\analisis.Datos\\analisis.Datos.csproj": {}
+    "C:\\Project\\analisis\\analisis.Datos\\analisis.Datos.csproj": {}
   },
   "projects": {
-    "C:\\project\\analisis\\analisis.Datos\\analisis.Datos.csproj": {
+    "C:\\Project\\analisis\\analisis.Datos\\analisis.Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\project\\analisis\\analisis.Datos\\analisis.Datos.csproj",
+        "projectUniqueName": "C:\\Project\\analisis\\analisis.Datos\\analisis.Datos.csproj",
         "projectName": "analisis.Datos",
-        "projectPath": "C:\\project\\analisis\\analisis.Datos\\analisis.Datos.csproj",
-        "packagesPath": "C:\\Users\\rortizs\\.nuget\\packages\\",
-        "outputPath": "C:\\project\\analisis\\analisis.Datos\\obj\\",
+        "projectPath": "C:\\Project\\analisis\\analisis.Datos\\analisis.Datos.csproj",
+        "packagesPath": "C:\\Users\\YOGA\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\analisis\\analisis.Datos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\rortizs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\YOGA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -31,9 +33,10 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\project\\analisis\\analisis.Entidades\\analisis.Entidades.csproj": {
-                "projectPath": "C:\\project\\analisis\\analisis.Entidades\\analisis.Entidades.csproj"
+              "C:\\Project\\analisis\\analisis.Entidades\\analisis.Entidades.csproj": {
+                "projectPath": "C:\\Project\\analisis\\analisis.Entidades\\analisis.Entidades.csproj"
               }
             }
           }
@@ -46,6 +49,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -65,28 +69,36 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\project\\analisis\\analisis.Entidades\\analisis.Entidades.csproj": {
+    "C:\\Project\\analisis\\analisis.Entidades\\analisis.Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\project\\analisis\\analisis.Entidades\\analisis.Entidades.csproj",
+        "projectUniqueName": "C:\\Project\\analisis\\analisis.Entidades\\analisis.Entidades.csproj",
         "projectName": "analisis.Entidades",
-        "projectPath": "C:\\project\\analisis\\analisis.Entidades\\analisis.Entidades.csproj",
-        "packagesPath": "C:\\Users\\rortizs\\.nuget\\packages\\",
-        "outputPath": "C:\\project\\analisis\\analisis.Entidades\\obj\\",
+        "projectPath": "C:\\Project\\analisis\\analisis.Entidades\\analisis.Entidades.csproj",
+        "packagesPath": "C:\\Users\\YOGA\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\analisis\\analisis.Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\ProgramData\\Xamarin\\NuGet\\",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\rortizs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\YOGA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -99,6 +111,7 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -110,6 +123,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -119,10 +133,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
