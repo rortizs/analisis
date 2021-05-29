@@ -1,9 +1,8 @@
-C:\project\analisis\analisis.Entidades\bin\Debug\netcoreapp2.2\analisis.Entidades.deps.json
-C:\project\analisis\analisis.Entidades\bin\Debug\netcoreapp2.2\analisis.Entidades.dll
-C:\project\analisis\analisis.Entidades\bin\Debug\netcoreapp2.2\analisis.Entidades.pdb
-C:\project\analisis\analisis.Entidades\obj\Debug\netcoreapp2.2\analisis.Entidades.csproj.CoreCompileInputs.cache
-C:\project\analisis\analisis.Entidades\obj\Debug\netcoreapp2.2\analisis.Entidades.AssemblyInfoInputs.cache
-C:\project\analisis\analisis.Entidades\obj\Debug\netcoreapp2.2\analisis.Entidades.AssemblyInfo.cs
-C:\project\analisis\analisis.Entidades\obj\Debug\netcoreapp2.2\analisis.Entidades.dll
-C:\project\analisis\analisis.Entidades\obj\Debug\netcoreapp2.2\analisis.Entidades.pdb
-C:\Project\analisis\analisis.Entidades\obj\Debug\netcoreapp2.2\analisis.Entidades.csprojAssemblyReference.cache
+C:\Project\analisis\analisis.Entidades\bin\Debug\netcoreapp2.2\analisis.Entidades.deps.json
+C:\Project\analisis\analisis.Entidades\bin\Debug\netcoreapp2.2\analisis.Entidades.dll
+C:\Project\analisis\analisis.Entidades\bin\Debug\netcoreapp2.2\analisis.Entidades.pdb
+C:\Project\analisis\analisis.Entidades\obj\Debug\netcoreapp2.2\analisis.Entidades.AssemblyInfoInputs.cache
+C:\Project\analisis\analisis.Entidades\obj\Debug\netcoreapp2.2\analisis.Entidades.AssemblyInfo.cs
+C:\Project\analisis\analisis.Entidades\obj\Debug\netcoreapp2.2\analisis.Entidades.csproj.CoreCompileInputs.cache
+C:\Project\analisis\analisis.Entidades\obj\Debug\netcoreapp2.2\analisis.Entidades.dll
+C:\Project\analisis\analisis.Entidades\obj\Debug\netcoreapp2.2\analisis.Entidades.pdb
